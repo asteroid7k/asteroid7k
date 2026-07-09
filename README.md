@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizanur+Rahman!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+Is+Mizan." />
 </h1>
 
 <h3 align="center">Hello! I'm Mizan, a passionate vibe coder with a simple goal to create functional, responsive websites while continuously expanding my expertise in the world of Ai.</h3>
